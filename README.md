@@ -1,5 +1,7 @@
 # Hackintosh, Asus ROG MAXIMUS Z790 HERO, Intel Core i7-13700K, AMD Radeon RX 6900 XT
 
+<img width="2357" height="1394" alt="Portfolio" src="https://github.com/user-attachments/assets/ca70002b-f4ac-4ad7-ab6e-29c1e42567d0" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.7.1)
@@ -24,28 +26,28 @@
 |💾 Storage|WD_BLACK SN850X 4000GB (4000 GB, PCI-E 4.0 x4)|
 
 # Geekbench v6 Score [CPU/⚙️]
-✴️ XXXX Single Core
+✴️ 2.834 Single Core
 <br>
-✴️ XXXX Multi Core
+✴️ 17.970 Multi Core
 
 # Geekbench v6 Score [GPU/🎮]
-✅ XXXX OpenCL
+✅ 111.575 OpenCL
 <br>
-✅ XXXX Metal API
+✅ 252.251 Metal API
 
 # Geekbench Ai Score [CPU/⚙️]
-✨ XXXX Single Precision
+✨ 1.707 Single Precision
 <br>
-✨ XXXX Half Precision
+✨ 185 Half Precision
 <br>
-✨ XXXX Quantized
+✨ 140 Quantized
 
 # Geekbench Ai Score [GPU/🎮]
-🔥 XXXX Single Precision
+🔥 9.203 Single Precision
 <br>
-🔥 XXXX Half Precision
+🔥 9.306 Half Precision
 <br>
-🔥 XXXX Quantized
+🔥 2.104 Quantized
 
 ## Hackintosh Creator
 - [Gabriel Luchina - Universo Hackintosh](https://luchina.com.br)
